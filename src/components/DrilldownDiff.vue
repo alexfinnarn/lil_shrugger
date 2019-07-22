@@ -19,8 +19,9 @@
 </template>
 
 <script>
-// Many different comments...
 const diff2 = "something";
+const diff3 = "something";
+const diff4 = "something";
 
 export default {
   name: "DrilldownDiff",

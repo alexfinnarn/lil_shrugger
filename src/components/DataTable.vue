@@ -154,7 +154,6 @@ import store from "../store.ts";
 import bus from "../services/bus.ts";
 import shrugger from "../services/shrugger.ts";
 
-// Different comment...
 const diff = "something";
 
 export default {
