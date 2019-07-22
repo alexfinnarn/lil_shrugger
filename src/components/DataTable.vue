@@ -125,6 +125,9 @@
   import bus from '../services/bus.ts';
   import shrugger from '../services/shrugger.ts';
 
+  // Simulate a change...
+  const dumbVar = 'needed';
+
   export default {
     name: 'DataTable',
     props: {
