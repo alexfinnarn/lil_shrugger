@@ -19,8 +19,8 @@
 </template>
 
 <script>
-// Simulate another change...
-const dumbVar = "needed";
+// Many different comments...
+const diff2 = "something";
 
 export default {
   name: "DrilldownDiff",
